@@ -50,10 +50,8 @@ end
 
 
 group :test do
-
   # minitest-reporters for improved test output
   gem 'minitest-reporters'
-
   # shoulda for easily testing validations
   gem 'shoulda'
 end

@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+jan:
+  occurs_at: 2015-01-01 20:00:00
+  location: "My house"
+
+feb:
+  occurs_at: 2015-02-01 20:00:00
+  location: "work"
